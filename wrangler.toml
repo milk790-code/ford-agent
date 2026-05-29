@@ -1,0 +1,27 @@
+# ford-agent Cloudflare Worker 設定
+# 遵守 2026/2/15 Cloudflare Workers Best Practices
+name = "ford-agent"
+main = "src/index.js"
+compatibility_date = "2026-05-01"
+compatibility_flags = ["nodejs_compat"]
+
+# 每週一 台灣09:00 = UTC週一01:00 自動抓資料
+[triggers]
+crons = ["0 1 * * MON"]
+
+# R2：存最新 digest JSON（部署前需先建立同名 bucket）
+[[r2_buckets]]
+binding = "FORD_R2"
+bucket_name = "ford-agent-data"
+
+# Workers AI：視覺辨識（Llama 3.2 Vision），零外部金鑰
+[ai]
+binding = "AI"
+
+# ── 選用升級開關（預設不用、不要填）──
+# 若日後要改用前沿視覺模型，於 Cloudflare 後台 Settings→Variables 設：
+#   VISION_PROVIDER = anthropic   （一般變數）
+#   VISION_MODEL    = claude-sonnet-4-6  （一般變數，可選）
+#   ANTHROPIC_API_KEY = sk-...    （務必設為 Secret，不要寫進這個檔！）
+# [vars]
+# VISION_PROVIDER = "anthropic"

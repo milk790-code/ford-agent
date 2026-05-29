@@ -1,0 +1,25 @@
+# 備援：GitHub Actions 每週一也抓一次，把 digest 存進 repo/data/ 當鏡像
+# （Worker 的 R2 是主來源；這支是雙保險，repo 公開時亦可當免費 JSON 端點）
+name: Weekly Ford Digest Backup
+on:
+  schedule:
+    - cron: '0 1 * * 1'   # 週一 UTC 01:00
+  workflow_dispatch:
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with: { node-version: lts/* }
+      - name: Run scraper
+        run: |
+          mkdir -p data
+          node --input-type=module -e "import('./scripts/scrape_core.mjs').then(async m=>{const fs=await import('fs');fs.writeFileSync('data/latest.json',JSON.stringify(await m.buildDigest(),null,2));})"
+      - name: Commit
+        run: |
+          git config user.name "ford-agent-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/latest.json
+          git commit -m "weekly ford digest $(date -u +%Y-%m-%d)" || echo "no change"
+          git push

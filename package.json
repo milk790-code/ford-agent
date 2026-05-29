@@ -1,0 +1,15 @@
+{
+  "name": "ford-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "refresh": "curl -s \"$WORKER_URL/refresh\" | head -c 400",
+    "test:scrape": "node --input-type=module -e \"import('./scripts/scrape_core.mjs').then(async m=>console.log(JSON.stringify((await m.buildDigest()).summary,null,1)))\""
+  },
+  "devDependencies": {
+    "wrangler": "^4.34.0"
+  }
+}
