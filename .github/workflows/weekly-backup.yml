@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '0 1 * * 1'   # 週一 UTC 01:00
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
