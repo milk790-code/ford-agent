@@ -1,0 +1,40 @@
+name: Ford worker smoke
+
+on:
+  pull_request:
+  push:
+    branches:
+      - codex/**
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    name: syntax, scraper, wrangler dry run
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: lts/*
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Syntax check
+        run: |
+          node --check src/index.js
+          node --check src/scrape_core.js
+          node --check scripts/scrape_core.mjs
+
+      - name: Scraper smoke
+        run: npm run test:scrape
+
+      - name: Wrangler dry run
+        run: npx wrangler deploy --dry-run --outdir /tmp/ford-agent-dryrun
