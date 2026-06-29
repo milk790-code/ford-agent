@@ -1,0 +1,527 @@
+{
+  "generatedAt": "2026-06-29T05:50:45.285Z",
+  "schema": "ford-agent/1",
+  "sources": {
+    "ucar": {
+      "source": "U-CAR 新聞首頁",
+      "ok": true,
+      "scanned": 0,
+      "fordItems": [],
+      "note": "本批首頁無福特新聞（正常，改由PTT主幹補）"
+    },
+    "ptt": {
+      "source": "PTT car 搜尋",
+      "ok": true,
+      "count": 80,
+      "menus": [
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Kuga 1.5T Vignale",
+          "url": "https://www.ptt.cc/bbs/car/M.1775315724.A.A71.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Ford Kuga active",
+          "url": "https://www.ptt.cc/bbs/car/M.1762689240.A.4D7.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Ranger",
+          "title": "[菜單] ranger運動版 年底前領牌",
+          "url": "https://www.ptt.cc/bbs/car/M.1608804286.A.3EC.html",
+          "isMenu": true
+        }
+      ],
+      "posts": [
+        {
+          "keyword": "Kuga",
+          "title": "Re: [新聞] 美國福特12.5萬輛竟「修完沒好」！Kuga與",
+          "url": "https://www.ptt.cc/bbs/car/M.1781969027.A.EE0.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[新聞] 美國福特12.5萬輛竟「修完沒好」！Kuga與",
+          "url": "https://www.ptt.cc/bbs/car/M.1781923561.A.794.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[新聞] Ford Kuga從台灣福特官網的型錄悄悄下架!",
+          "url": "https://www.ptt.cc/bbs/car/M.1780379275.A.AF8.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] 二手kuga請益",
+          "url": "https://www.ptt.cc/bbs/car/M.1776432194.A.FE3.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] cx30 vs kuga",
+          "url": "https://www.ptt.cc/bbs/car/M.1775541580.A.F8E.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Kuga 1.5T Vignale",
+          "url": "https://www.ptt.cc/bbs/car/M.1775315724.A.A71.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[新聞] 福特運動休旅Kuga新年式持續奮戰！駕駛輔",
+          "url": "https://www.ptt.cc/bbs/car/M.1770968780.A.C5C.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[新聞] 北美福特Ford正式停產Escape(北美版Kuga)",
+          "url": "https://www.ptt.cc/bbs/car/M.1766981042.A.346.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[心得] 福特Kuga引擎腳更換週期",
+          "url": "https://www.ptt.cc/bbs/car/M.1764422529.A.C9F.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] 是否該KUGA換RAV4",
+          "url": "https://www.ptt.cc/bbs/car/M.1763958664.A.214.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Ford Kuga active",
+          "url": "https://www.ptt.cc/bbs/car/M.1762689240.A.4D7.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] 福特KUGA熄火後開門有提示音",
+          "url": "https://www.ptt.cc/bbs/car/M.1761833796.A.655.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "Re: [問題] 2019 年Kuga 變速箱維修請益",
+          "url": "https://www.ptt.cc/bbs/car/M.1757332990.A.9A0.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] 2019 年Kuga 變速箱維修請益",
+          "url": "https://www.ptt.cc/bbs/car/M.1757298289.A.667.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] Tucson L Hybrid vs Kuga 1.5 Active",
+          "url": "https://www.ptt.cc/bbs/car/M.1748540303.A.E9E.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "Re: [問題] kuga跟tucson",
+          "url": "https://www.ptt.cc/bbs/car/M.1747563616.A.374.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "Re: [問題] kuga跟tucson",
+          "url": "https://www.ptt.cc/bbs/car/M.1747494131.A.3AA.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] kuga跟tucson",
+          "url": "https://www.ptt.cc/bbs/car/M.1747484837.A.AD6.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[心得] Kuga ST line X 100000KM &amp; 換胎分享",
+          "url": "https://www.ptt.cc/bbs/car/M.1744343523.A.AD8.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] Kuga 2021 + 三星 S24 連接問題",
+          "url": "https://www.ptt.cc/bbs/car/M.1740962361.A.AE7.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "[閒聊] 2025 Ford Focus Wagon ST-Line Vignale",
+          "url": "https://www.ptt.cc/bbs/car/M.1781172260.A.87C.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "[心得] Ford Focus-紀念停產的駕駛紀錄回顧",
+          "url": "https://www.ptt.cc/bbs/car/M.1781089755.A.3DA.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "Re: [新聞] Ford高層：Fiesta與Focus未來可能復活",
+          "url": "https://www.ptt.cc/bbs/car/M.1780431577.A.377.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "[新聞] Ford高層：Fiesta與Focus未來可能復活",
+          "url": "https://www.ptt.cc/bbs/car/M.1780320254.A.348.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "[新聞] 陪伴25年「台灣國產福特Focus」官網下架",
+          "url": "https://www.ptt.cc/bbs/car/M.1777638713.A.B18.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "[新聞] 「福特停產Focus」後悔了！高層鬆口開發",
+          "url": "https://www.ptt.cc/bbs/car/M.1771989091.A.2B3.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "[問題] 70邁監控電池接Focus MK4.5保險絲問題",
+          "url": "https://www.ptt.cc/bbs/car/M.1771601789.A.76A.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "Re: [問題] Focus 發不動",
+          "url": "https://www.ptt.cc/bbs/car/M.1771521525.A.987.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "Re: [問題] Focus 發不動",
+          "url": "https://www.ptt.cc/bbs/car/M.1771511209.A.CE3.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Focus",
+          "title": "[問題] Focus 發不動 更新已解決後續",
+          "url": "https://www.ptt.cc/bbs/car/M.1771506579.A.C19.html",
+          "isMenu": false
+        }
+      ],
+      "note": "公開；福特菜單/心得情報主幹"
+    },
+    "gov": {
+      "source": "data.gov.tw#30202 新車領牌數(車種別)",
+      "ok": true,
+      "url": "https://www.thb.gov.tw/Common/ThbOpenDataService.ashx?SN=517&format=4&rel=156232",
+      "header": [
+        "統計期",
+        "總計",
+        "汽車",
+        "大客車",
+        "大客車/自用",
+        "大客車/營業",
+        "大客車/營業/遊覽車",
+        "大客車/營業/營業（不含遊覽車）",
+        "大貨車",
+        "大貨車/自用",
+        "大貨車/營業",
+        "小客車",
+        "小客車/自用",
+        "小客車/營業",
+        "小客車/營業/租賃",
+        "小客車/營業/計程車",
+        "小客車/營業/其他營業小客車",
+        "小貨車",
+        "小貨車/自用",
+        "小貨車/營業",
+        "小貨車/營業/租賃",
+        "小貨車/營業/營業（不含租賃）",
+        "特種車",
+        "警備車",
+        "救護車",
+        "消防車",
+        "郵車",
+        "其他",
+        "機車",
+        "機車重型",
+        "大型重型",
+        "大型重型550cc以上",
+        "大型重型未滿550cc",
+        "普通重型",
+        "機車輕型",
+        "小型輕型",
+        "普通輕型"
+      ],
+      "sample": [
+        [
+          "107年",
+          "1290511",
+          "435114",
+          "1951",
+          "96",
+          "1855",
+          "759",
+          "1096",
+          "8640",
+          "3997",
+          "4643",
+          "384083",
+          "338308",
+          "45775",
+          "41045",
+          "4730",
+          "-",
+          "36752",
+          "28072",
+          "8680",
+          "6658",
+          "2022",
+          "3688",
+          "80",
+          "205",
+          "102",
+          "354",
+          "2947",
+          "855397",
+          "844402",
+          "16569",
+          "8036",
+          "8533",
+          "827833",
+          "10995",
+          "-",
+          "10995"
+        ],
+        [
+          "107年 1月",
+          "116803",
+          "47937",
+          "102",
+          "5",
+          "97",
+          "61",
+          "36",
+          "342",
+          "120",
+          "222",
+          "43801",
+          "38752",
+          "5049",
+          "4490",
+          "559",
+          "-",
+          "3619",
+          "2820",
+          "799",
+          "549",
+          "250",
+          "73",
+          "2",
+          "5",
+          "2",
+          "12",
+          "52",
+          "68866",
+          "68299",
+          "1454",
+          "754",
+          "700",
+          "66845",
+          "567",
+          "-",
+          "567"
+        ],
+        [
+          "107年 2月",
+          "75035",
+          "26964",
+          "128",
+          "2",
+          "126",
+          "63",
+          "63",
+          "371",
+          "212",
+          "159",
+          "24380",
+          "21603",
+          "2777",
+          "2455",
+          "322",
+          "-",
+          "2016",
+          "1510",
+          "506",
+          "454",
+          "52",
+          "69",
+          "-",
+          "4",
+          "1",
+          "-",
+          "64",
+          "48071",
+          "47516",
+          "822",
+          "465",
+          "357",
+          "46694",
+          "555",
+          "-",
+          "555"
+        ],
+        [
+          "107年 3月",
+          "120094",
+          "39260",
+          "240",
+          "6",
+          "234",
+          "96",
+          "138",
+          "724",
+          "308",
+          "416",
+          "34508",
+          "30154",
+          "4354",
+          "3810",
+          "544",
+          "-",
+          "3624",
+          "2763",
+          "861",
+          "611",
+          "250",
+          "164",
+          "3",
+          "18",
+          "1",
+          "-",
+          "142",
+          "80834",
+          "80277",
+          "1596",
+          "907",
+          "689",
+          "78681",
+          "557",
+          "-",
+          "557"
+        ],
+        [
+          "107年 4月",
+          "93358",
+          "34457",
+          "164",
+          "8",
+          "156",
+          "85",
+          "71",
+          "585",
+          "277",
+          "308",
+          "30559",
+          "26723",
+          "3836",
+          "3429",
+          "407",
+          "-",
+          "3011",
+          "2348",
+          "663",
+          "537",
+          "126",
+          "138",
+          "-",
+          "11",
+          "7",
+          "-",
+          "120",
+          "58901",
+          "58470",
+          "1240",
+          "660",
+          "580",
+          "57230",
+          "431",
+          "-",
+          "431"
+        ],
+        [
+          "107年 5月",
+          "106498",
+          "35688",
+          "170",
+          "5",
+          "165",
+          "69",
+          "96",
+          "826",
+          "315",
+          "511",
+          "31346",
+          "27345",
+          "4001",
+          "3587",
+          "414",
+          "-",
+          "3039",
+          "2399",
+          "640",
+          "489",
+          "151",
+          "307",
+          "5",
+          "15",
+          "-",
+          "-",
+          "287",
+          "70810",
+          "70206",
+          "1593",
+          "802",
+          "791",
+          "68613",
+          "604",
+          "-",
+          "604"
+        ]
+      ],
+      "note": "政府開放授權；總市場車種別、無廠牌"
+    }
+  },
+  "summary": {
+    "pttMenus": [
+      {
+        "keyword": "Kuga",
+        "title": "[菜單] Kuga 1.5T Vignale",
+        "url": "https://www.ptt.cc/bbs/car/M.1775315724.A.A71.html",
+        "isMenu": true
+      },
+      {
+        "keyword": "Kuga",
+        "title": "[菜單] Ford Kuga active",
+        "url": "https://www.ptt.cc/bbs/car/M.1762689240.A.4D7.html",
+        "isMenu": true
+      },
+      {
+        "keyword": "Ranger",
+        "title": "[菜單] ranger運動版 年底前領牌",
+        "url": "https://www.ptt.cc/bbs/car/M.1608804286.A.3EC.html",
+        "isMenu": true
+      }
+    ],
+    "pttCount": 80,
+    "fordNews": [],
+    "govOk": true
+  }
+}
