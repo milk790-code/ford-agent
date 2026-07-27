@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T04:34:57.072Z",
+  "generatedAt": "2026-07-27T04:35:57.663Z",
   "schema": "ford-agent/1",
   "sources": {
     "ucar": {
@@ -22,6 +22,12 @@
         }
       ],
       "posts": [
+        {
+          "keyword": "Focus",
+          "title": "[分享] Focus mk3.5 二十七萬公里分享",
+          "url": "https://www.ptt.cc/bbs/car/M.1784519995.A.2C9.html",
+          "isMenu": false
+        },
         {
           "keyword": "Focus",
           "title": "[新聞] Ford Focus 有望以跨界身分回歸車壇！推測搭獨特燈組造型與",
@@ -134,12 +140,6 @@
           "keyword": "Focus",
           "title": "Re: [新聞] 福特Ford CEO坦言低價車拚不過日韓,導致Focus等車停產",
           "url": "https://www.ptt.cc/bbs/car/M.1767053455.A.403.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "[新聞] 福特Ford CEO坦言低價車拚不過日韓,導致Focus等車停產",
-          "url": "https://www.ptt.cc/bbs/car/M.1767017036.A.27B.html",
           "isMenu": false
         },
         {
