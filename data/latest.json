@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:35:57.663Z",
+  "generatedAt": "2026-08-03T04:29:18.895Z",
   "schema": "ford-agent/1",
   "sources": {
     "ucar": {
@@ -22,6 +22,12 @@
         }
       ],
       "posts": [
+        {
+          "keyword": "Focus",
+          "title": "[心得] Ford Focus MK3 2.0 12年 33.5萬畢業文",
+          "url": "https://www.ptt.cc/bbs/car/M.1785600805.A.F3D.html",
+          "isMenu": false
+        },
         {
           "keyword": "Focus",
           "title": "[分享] Focus mk3.5 二十七萬公里分享",
@@ -134,12 +140,6 @@
           "keyword": "Focus",
           "title": "[分享] Focus mk3.5 二十六萬公里分享",
           "url": "https://www.ptt.cc/bbs/car/M.1767281474.A.6B9.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "Re: [新聞] 福特Ford CEO坦言低價車拚不過日韓,導致Focus等車停產",
-          "url": "https://www.ptt.cc/bbs/car/M.1767053455.A.403.html",
           "isMenu": false
         },
         {
