@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T04:29:18.895Z",
+  "generatedAt": "2026-08-10T03:10:43.693Z",
   "schema": "ford-agent/1",
   "sources": {
     "ucar": {
@@ -12,8 +12,32 @@
     "ptt": {
       "source": "PTT car 搜尋",
       "ok": true,
-      "count": 60,
+      "count": 80,
       "menus": [
+        {
+          "keyword": "Kuga",
+          "title": "Re: [菜單] Ford Kuga mk3.5 1.5t 購車分享(中)",
+          "url": "https://www.ptt.cc/bbs/car/M.1783694179.A.C20.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Ford Kuga mk3.5 1.5t 購車分享(中)",
+          "url": "https://www.ptt.cc/bbs/car/M.1783608432.A.CFF.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Kuga 1.5T Vignale",
+          "url": "https://www.ptt.cc/bbs/car/M.1775315724.A.A71.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Ford Kuga active",
+          "url": "https://www.ptt.cc/bbs/car/M.1762689240.A.4D7.html",
+          "isMenu": true
+        },
         {
           "keyword": "Ranger",
           "title": "[菜單] ranger運動版 年底前領牌",
@@ -22,6 +46,126 @@
         }
       ],
       "posts": [
+        {
+          "keyword": "Kuga",
+          "title": "[心得] Ford Kuga mk3.5 1.5t 牽車兩周心得(下)",
+          "url": "https://www.ptt.cc/bbs/car/M.1783783115.A.95B.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "Re: [菜單] Ford Kuga mk3.5 1.5t 購車分享(中)",
+          "url": "https://www.ptt.cc/bbs/car/M.1783694179.A.C20.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Ford Kuga mk3.5 1.5t 購車分享(中)",
+          "url": "https://www.ptt.cc/bbs/car/M.1783608432.A.CFF.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[心得] Ford Kuga mk3.5 1.5t 牽車兩周分享(上)",
+          "url": "https://www.ptt.cc/bbs/car/M.1783266280.A.40D.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "Re: [新聞] 美國福特12.5萬輛竟「修完沒好」！Kuga與",
+          "url": "https://www.ptt.cc/bbs/car/M.1781969027.A.EE0.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[新聞] 美國福特12.5萬輛竟「修完沒好」！Kuga與",
+          "url": "https://www.ptt.cc/bbs/car/M.1781923561.A.794.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[新聞] Ford Kuga從台灣福特官網的型錄悄悄下架!",
+          "url": "https://www.ptt.cc/bbs/car/M.1780379275.A.AF8.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] 二手kuga請益",
+          "url": "https://www.ptt.cc/bbs/car/M.1776432194.A.FE3.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] cx30 vs kuga",
+          "url": "https://www.ptt.cc/bbs/car/M.1775541580.A.F8E.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Kuga 1.5T Vignale",
+          "url": "https://www.ptt.cc/bbs/car/M.1775315724.A.A71.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[新聞] 福特運動休旅Kuga新年式持續奮戰！駕駛輔",
+          "url": "https://www.ptt.cc/bbs/car/M.1770968780.A.C5C.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[新聞] 北美福特Ford正式停產Escape(北美版Kuga)",
+          "url": "https://www.ptt.cc/bbs/car/M.1766981042.A.346.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[心得] 福特Kuga引擎腳更換週期",
+          "url": "https://www.ptt.cc/bbs/car/M.1764422529.A.C9F.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] 是否該KUGA換RAV4",
+          "url": "https://www.ptt.cc/bbs/car/M.1763958664.A.214.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[菜單] Ford Kuga active",
+          "url": "https://www.ptt.cc/bbs/car/M.1762689240.A.4D7.html",
+          "isMenu": true
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] 福特KUGA熄火後開門有提示音",
+          "url": "https://www.ptt.cc/bbs/car/M.1761833796.A.655.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "Re: [問題] 2019 年Kuga 變速箱維修請益",
+          "url": "https://www.ptt.cc/bbs/car/M.1757332990.A.9A0.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] 2019 年Kuga 變速箱維修請益",
+          "url": "https://www.ptt.cc/bbs/car/M.1757298289.A.667.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "[問題] Tucson L Hybrid vs Kuga 1.5 Active",
+          "url": "https://www.ptt.cc/bbs/car/M.1748540303.A.E9E.html",
+          "isMenu": false
+        },
+        {
+          "keyword": "Kuga",
+          "title": "Re: [問題] kuga跟tucson",
+          "url": "https://www.ptt.cc/bbs/car/M.1747563616.A.374.html",
+          "isMenu": false
+        },
         {
           "keyword": "Focus",
           "title": "[心得] Ford Focus MK3 2.0 12年 33.5萬畢業文",
@@ -81,126 +225,6 @@
           "title": "[新聞] 「福特停產Focus」後悔了！高層鬆口開發",
           "url": "https://www.ptt.cc/bbs/car/M.1771989091.A.2B3.html",
           "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "[問題] 70邁監控電池接Focus MK4.5保險絲問題",
-          "url": "https://www.ptt.cc/bbs/car/M.1771601789.A.76A.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "Re: [問題] Focus 發不動",
-          "url": "https://www.ptt.cc/bbs/car/M.1771521525.A.987.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "Re: [問題] Focus 發不動",
-          "url": "https://www.ptt.cc/bbs/car/M.1771511209.A.CE3.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "[問題] Focus 發不動 更新已解決後續",
-          "url": "https://www.ptt.cc/bbs/car/M.1771506579.A.C19.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "[心得] focus STW 四輪定位&amp;吃胎處理",
-          "url": "https://www.ptt.cc/bbs/car/M.1769433802.A.D98.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "Re: [問題] Ford FOCUS ABS故障U3000",
-          "url": "https://www.ptt.cc/bbs/car/M.1768462951.A.09C.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "[新聞] 福特CEO:停產Focus,因為跟豐田硬碰硬是個錯誤",
-          "url": "https://www.ptt.cc/bbs/car/M.1767586807.A.50E.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "[問題] CX-30 or Focus mk4 5D ?",
-          "url": "https://www.ptt.cc/bbs/car/M.1767576055.A.0B1.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "Re: [問題] Civic/ Focus 怎麼選",
-          "url": "https://www.ptt.cc/bbs/car/M.1767538264.A.98B.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "[分享] Focus mk3.5 二十六萬公里分享",
-          "url": "https://www.ptt.cc/bbs/car/M.1767281474.A.6B9.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "[閒聊] Ranger 是不是避震要改",
-          "url": "https://www.ptt.cc/bbs/car/M.1753519282.A.956.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "Re: [情報] 2025 Ford Ranger Raptor 小猛禽減配漲價",
-          "url": "https://www.ptt.cc/bbs/car/M.1738914444.A.C1A.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "[問題] Mazda BT-50皮卡能否威脅Ranger和Hilux？",
-          "url": "https://www.ptt.cc/bbs/car/M.1729480630.A.FC9.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "[分享] 2024 Ford Ranger XLT",
-          "url": "https://www.ptt.cc/bbs/car/M.1719298489.A.3B3.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "[討論] 豐田包辦冠軍，Ranger Raptor怎麼輸？",
-          "url": "https://www.ptt.cc/bbs/car/M.1710333554.A.384.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "[討論] Mazda皮卡能打趴Hilux、Ranger嗎？",
-          "url": "https://www.ptt.cc/bbs/car/M.1708829039.A.7A9.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "[分享] Ford Ranger Raptor 強尼大叔ft.人車部",
-          "url": "https://www.ptt.cc/bbs/car/M.1699217202.A.ED9.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "[新聞] Ranger Raptor今年100輛配額完售！",
-          "url": "https://www.ptt.cc/bbs/car/M.1689905024.A.C6B.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "[新聞] 新世代Ford Ranger Ranger正式在台發表!",
-          "url": "https://www.ptt.cc/bbs/car/M.1686626028.A.54B.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Ranger",
-          "title": "Re: [新聞] 新世代皮卡Ford Ranger開放預接單",
-          "url": "https://www.ptt.cc/bbs/car/M.1681361000.A.EEF.html",
-          "isMenu": false
         }
       ],
       "note": "公開；福特菜單/心得情報主幹"
@@ -231,7 +255,7 @@
         "小貨車/自用",
         "小貨車/營業",
         "小貨車/營業/租賃",
-        "小貨車/營業/營業（不含租賃）",
+        "小貨車/營業/營業(不含租賃)",
         "特種車",
         "警備車",
         "救護車",
@@ -490,13 +514,37 @@
   "summary": {
     "pttMenus": [
       {
+        "keyword": "Kuga",
+        "title": "Re: [菜單] Ford Kuga mk3.5 1.5t 購車分享(中)",
+        "url": "https://www.ptt.cc/bbs/car/M.1783694179.A.C20.html",
+        "isMenu": true
+      },
+      {
+        "keyword": "Kuga",
+        "title": "[菜單] Ford Kuga mk3.5 1.5t 購車分享(中)",
+        "url": "https://www.ptt.cc/bbs/car/M.1783608432.A.CFF.html",
+        "isMenu": true
+      },
+      {
+        "keyword": "Kuga",
+        "title": "[菜單] Kuga 1.5T Vignale",
+        "url": "https://www.ptt.cc/bbs/car/M.1775315724.A.A71.html",
+        "isMenu": true
+      },
+      {
+        "keyword": "Kuga",
+        "title": "[菜單] Ford Kuga active",
+        "url": "https://www.ptt.cc/bbs/car/M.1762689240.A.4D7.html",
+        "isMenu": true
+      },
+      {
         "keyword": "Ranger",
         "title": "[菜單] ranger運動版 年底前領牌",
         "url": "https://www.ptt.cc/bbs/car/M.1608804286.A.3EC.html",
         "isMenu": true
       }
     ],
-    "pttCount": 60,
+    "pttCount": 80,
     "fordNews": [],
     "govOk": true
   }
