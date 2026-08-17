@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T03:10:43.693Z",
+  "generatedAt": "2026-08-17T02:18:48.344Z",
   "schema": "ford-agent/1",
   "sources": {
     "ucar": {
@@ -46,6 +46,12 @@
         }
       ],
       "posts": [
+        {
+          "keyword": "Kuga",
+          "title": "[心得] Ford kuga stline mk3 改裝通風椅",
+          "url": "https://www.ptt.cc/bbs/car/M.1786525154.A.4B2.html",
+          "isMenu": false
+        },
         {
           "keyword": "Kuga",
           "title": "[心得] Ford Kuga mk3.5 1.5t 牽車兩周心得(下)",
@@ -161,9 +167,9 @@
           "isMenu": false
         },
         {
-          "keyword": "Kuga",
-          "title": "Re: [問題] kuga跟tucson",
-          "url": "https://www.ptt.cc/bbs/car/M.1747563616.A.374.html",
+          "keyword": "Focus",
+          "title": "[新聞] Ford新CUV可能重啟Focus車名鎖定豐田C-HR？",
+          "url": "https://www.ptt.cc/bbs/car/M.1786629548.A.FF1.html",
           "isMenu": false
         },
         {
@@ -218,12 +224,6 @@
           "keyword": "Focus",
           "title": "[新聞] 陪伴25年「台灣國產福特Focus」官網下架",
           "url": "https://www.ptt.cc/bbs/car/M.1777638713.A.B18.html",
-          "isMenu": false
-        },
-        {
-          "keyword": "Focus",
-          "title": "[新聞] 「福特停產Focus」後悔了！高層鬆口開發",
-          "url": "https://www.ptt.cc/bbs/car/M.1771989091.A.2B3.html",
           "isMenu": false
         }
       ],
