@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-10-26T05:47:22.693Z",
+  "generatedAt": "2026-11-02T07:17:07.304Z",
   "schema": "ford-agent/1",
   "sources": {
-    "ucar": {
-      "source": "U-CAR 新聞首頁",
-      "ok": true,
-      "scanned": 0,
-      "fordItems": [],
-      "note": "本批首頁無福特新聞（正常，改由PTT主幹補）"
-    },
     "ptt": {
       "source": "PTT car 搜尋",
       "ok": true,
@@ -16,6 +9,13 @@
       "menus": [],
       "posts": [],
       "note": "公開；福特菜單/心得情報主幹"
+    },
+    "ucar": {
+      "source": "U-CAR 新聞首頁",
+      "ok": true,
+      "scanned": 0,
+      "fordItems": [],
+      "note": "本批首頁無福特新聞（正常，改由PTT主幹補）"
     },
     "gov": {
       "source": "data.gov.tw#30202 新車領牌數(車種別)",
